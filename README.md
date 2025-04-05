@@ -4,7 +4,7 @@
 10 secondes, 30 secondes, 1 minute, 3 minutes, 6 minutes, 10 minutes.
 
 ## pause.
-5 minutes, 10 minutes.
+10 minutes.
 
 ## exercices.
 ### exercice n°1.
