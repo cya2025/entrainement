@@ -41,12 +41,12 @@ durée : 1 minute, 5 minutes, 10 minutes.
 ### exercice n°11.
 courir.
 
-durée : 5 minutes, 10 minutes.
+durée : 1 minute, 5 minutes, 10 minutes.
 
 ### exercice n°12.
 sauts.
 
-durée : 5 minutes, 10 minutes.
+durée : 1 minute, 5 minutes, 10 minutes.
 
 ### exercice n°13.
 coups pieds.
