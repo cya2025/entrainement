@@ -66,7 +66,7 @@ durée : 1 minute, 5 minutes, 10 minutes.
 ### exercice n°16.
 douche.
 
-durée : 10 secondes, 30 secondes, 1 minute, 4 minutes, 7 minutes, 10 minutes.
+durée : 10 secondes, 1 minute, 10 minutes.
 
 ### exercice n°17.
 coups talons.
