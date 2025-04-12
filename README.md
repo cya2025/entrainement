@@ -1,4 +1,4 @@
-# entrainement
+de# entrainement
 
 ## exercices.
 ### exercice n°1.
@@ -16,7 +16,7 @@ articulations.
 
 recommandation : après réveil et avant sommeil.
 
-10 secondes (toka 1) : note 10.
+10 secondes (toka 1) : note 10.\
 30 secondes (toka 2) : note 10.
 
 ### exercice n°4.
@@ -62,7 +62,7 @@ coups coudes.
 ### exercice n°16.
 douche.
 
-10 secondes (toka 1) : note 10.
+10 secondes (toka 1) : note 10.\
 30 secondes (toka 2) : note 10.
 
 ### exercice n°17.
