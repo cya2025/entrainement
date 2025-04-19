@@ -1,10 +1,5 @@
 # entrainement
 
-## toka.
-fiche d'exercice.
-
-note 10 : un exercice effectué.
-
 ## exercices.
 
 ### exercice n°3.
